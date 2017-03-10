@@ -2,5 +2,20 @@
   "name": "ngx-monorepo",
   "devDependencies": {
     "jase": "^1.2.0"
-  }
+  },
+  "description": "A repo for testing angular 2 apps as a monorepo",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {
+    "jase": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-nimi:nimi/ngx-monorepo.git"
+  },
+  "author": "",
+  "license": "ISC"
 }
